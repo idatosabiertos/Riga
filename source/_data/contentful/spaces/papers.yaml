@@ -1545,3 +1545,48 @@ Se identifican los principales aprendizajes que esta experiencia permite entrega
   abstract: 'El Encuentro de Hacking Cívico de Rosario nace con el propósito de construir un espacio para poner en cuestión problemáticas asociadas a la convivencia entre ciudadanos, en relación a determinados ejes temáticos. Este espacio nos permitiría pensar un futuro deseable y co-crear acciones para empezar a hacerlo posible y no desmoronarnos en la mera crítica que no construye posibilidades de transformación.
              La potencia del Hacking Cívico radica en la sinergia que produce la co-creación entre la sociedad civil, compartiendo su experiencia como ciudadanos, las organizaciones sociales con su trayectoria territorial y las diferentes organizaciones del Estado, con sus recursos específicos. En la articulación y canalización de esas conversaciones se encuentra la posibilidad real de hackear el status quo.
              El sábado 3 de marzo de 2018 en la ciudad de Rosario (Argentina), alrededor de 70 miembros de organizaciones sociales, trabajadores del Estado, funcionarios y ciudadanos se reunieron con el compromiso de poner sus experiencias, conocimientos y recursos al servicio de alguna de las cinco temáticas trabajadas en el encuentro: #GeneroYDatos, #MovilidadYDatos, #JusticiaAbierta, #ParlamentoAbierto y #AcademiaYDatos.'
+- sys:
+    id: paper_29
+    space:
+      sys:
+        id: ufh1mvj7xl16
+    type: Entry
+    createdAt: !ruby/object:DateTime 2015-13-11 00:54:46.534000000 Z
+    updatedAt: !ruby/object:DateTime 2015-13-11 02:38:20.386000000 Z
+    revision: 2
+    contentType:
+      sys:
+        id: paper
+    locale: en-US
+  open: true
+  publicationName: "Los datos abiertos en América Latina y el Caribe"
+  downloadLink: https://publications.iadb.org/bitstream/handle/11319/8983/PublicacionDatosAbiertosFinal.pdf?sequence=1&isAllowed=y
+  organization:
+    - Banco Interamericano de Desarrollo
+  publicationDate: '2018'
+  region:
+    - América Latina
+  authors:
+  - Arturo Muente
+  - Florencia Serale
+  innovationCategory:
+  - Tecnología Cívica
+  - Datos Abiertos
+  objectiveCategory:
+  - Acceso
+  - Innovación,
+  - Transparencia
+  - Rendición de Cuentas
+  sectorCategory:
+  - Transparencia
+  - Rendición de Cuentas
+  methodology:
+  - Estudios de Caso
+  - Marco Conceptual
+  publicationType:
+  - Documento de Trabajo
+  project: []
+  gitHub:
+  relatedDataUrl:
+  relatedContentTitle:
+  abstract: 'En la era digital, la “economía de los datos” se está convirtiendo en el nuevo “oro negro” que aceita el motor del crecimiento económico. Los datos, masivos y abiertos, son esenciales para mejorar la confianza de los ciudadanos en sus estados y hacerles partícipes de la acción pública, facilitando el acceso a la información y mejorando la calidad de los servicios públicos. En este contexto, los gobiernos deben asegurar la confiabilidad de los datos y propiciar espacios de colaboración donde se habilite la generación de valor público, garantizando la confidencialidad de datos personales. Sin embargo, la apertura de datos gubernamentales se enfrenta a múltiples desafíos políticos, legales, y técnicos. A pesar de estos retos, América Latina y el Caribe es una región altamente comprometida con la agenda de datos abiertos. Este documento, además de sistematizar todo lo aprendido durante el seminario “Datos Abiertos para la Innovación Digital” realizado en Washington en junio de 2017, tiene el objetivo de convertirse en una herramienta de diseminación sobre la importancia de abrir datos. Esperamos lograr transmitir al lector el valor de los datos y la invitación a pensar estrategias sectoriales que nos permitan incrementar su uso. Este estudio describe qué son los datos abiertos, y ofrece una visión rápida del estado de los datos abiertos y principales retos en la región.'
