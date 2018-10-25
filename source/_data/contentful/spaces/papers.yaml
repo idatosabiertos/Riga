@@ -1589,3 +1589,99 @@ Se identifican los principales aprendizajes que esta experiencia permite entrega
   relatedDataUrl:
   relatedContentTitle:
   abstract: 'En la era digital, la “economía de los datos” se está convirtiendo en el nuevo “oro negro” que aceita el motor del crecimiento económico. Los datos, masivos y abiertos, son esenciales para mejorar la confianza de los ciudadanos en sus estados y hacerles partícipes de la acción pública, facilitando el acceso a la información y mejorando la calidad de los servicios públicos. En este contexto, los gobiernos deben asegurar la confiabilidad de los datos y propiciar espacios de colaboración donde se habilite la generación de valor público, garantizando la confidencialidad de datos personales. Sin embargo, la apertura de datos gubernamentales se enfrenta a múltiples desafíos políticos, legales, y técnicos. A pesar de estos retos, América Latina y el Caribe es una región altamente comprometida con la agenda de datos abiertos. Este documento, además de sistematizar todo lo aprendido durante el seminario “Datos Abiertos para la Innovación Digital” realizado en Washington en junio de 2017, tiene el objetivo de convertirse en una herramienta de diseminación sobre la importancia de abrir datos. Esperamos lograr transmitir al lector el valor de los datos y la invitación a pensar estrategias sectoriales que nos permitan incrementar su uso. Este estudio describe qué son los datos abiertos, y ofrece una visión rápida del estado de los datos abiertos y principales retos en la región.'
+- sys:
+    id: paper_30
+    space:
+      sys:
+        id: ufh1mvj7xl16
+    type: Entry
+    createdAt: !ruby/object:DateTime 2015-13-11 00:54:46.534000000 Z
+    updatedAt: !ruby/object:DateTime 2015-13-11 02:38:20.386000000 Z
+    revision: 2
+    contentType:
+      sys:
+        id: paper
+    locale: en-US
+  open: true
+  publicationName: "GOBERNANZA UNIVERSITARIA O COGOBIERNO: EL CASO DE LA UNIVERSIDAD DE CONCEPCIÓN DE CHILE"
+  downloadLink: https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-22362015000100009
+  organization:
+    - Banco Interamericano de Desarrollo
+  publicationDate: '2017'
+  region:
+    - Chile
+  authors:
+  - MARIOL VIRGILI LILLO
+  - FRANCISCO GANGA CONTRERAS
+  - KATHERINE FIGUEROA AILLAÑIR
+  innovationCategory:
+  - Análisis de Datos
+  - Datos Colaborativos
+  - Gobernanza Descentralizada
+  objectiveCategory:
+  - Legitimidad
+  - Participación
+  - Transparencia
+  sectorCategory:
+  - Educación
+  methodology:
+  - Estudios de Caso
+  - Marco Conceptual
+  publicationType:
+  project: []
+  gitHub:
+  relatedDataUrl:
+  relatedContentTitle: Co-gobierno Universitario
+  abstract: 'Este trabajo se centra en la participación en la Universidad de Concepción, abordada desde el estudiante-actor, que implica desarrollar y asumir una postura activa en el pregrado donde éste forme parte de la comunidad universitaria y desde la Universidad, como institución-actor, encargado no solo de asuntos direccionales sino también de disponer y asegurar espacios de participación para que éstos «hagan universidad». Se caracteriza la «participación estudiantil», establece si éstos entienden la participación como eminentemente política y de gobierno, excluyendo otras dimensiones de participación, y concluir respecto del enfoque que la dimensión política, como primordial, más próxima a gobernanza o a co-gobierno.'
+- sys:
+    id: paper_31
+    space:
+      sys:
+        id: ufh1mvj7xl16
+    type: Entry
+    createdAt: !ruby/object:DateTime 2015-13-11 00:54:46.534000000 Z
+    updatedAt: !ruby/object:DateTime 2015-13-11 02:38:20.386000000 Z
+    revision: 2
+    contentType:
+      sys:
+        id: paper
+    locale: en-US
+  open: true
+  publicationName: "El Derecho de Acceso a la Información Pública como Mecanismo de Control Social: Análisis comparado en cinco países latinoamericanos"
+  downloadLink: https://orb.binghamton.edu/cgi/viewcontent.cgi?article=1043&context=gobernar
+  organization:
+    - Banco Interamericano de Desarrollo
+  publicationDate: '2017'
+  region:
+    - América Latina
+    - Chile
+    - México
+    - Uruguay
+    - Perú
+  authors:
+  - Erik Moreno R.
+  - Christopher Ramírez S.
+  - Matías Salazar S.
+  innovationCategory:
+  - Participación ciudadana y Crowdsourcing
+  - Acceso a la Información
+  - Innovación Institucional
+  objectiveCategory:
+  - Acceso
+  - Legitimidad
+  - Transparencia
+  - Rendición de Cuentas
+  sectorCategory:
+  - Respuesta a Crisis
+  - Ley
+  - Movimientos Sociales & Activismo
+  methodology:
+  - Estudios de Caso
+  - Análisis Comparativo
+  publicationType:
+  - Reporte de Investigación
+  project: []
+  gitHub:
+  relatedDataUrl:
+  relatedContentTitle:
+  abstract: 'El presente estudio busca revisar el estado y el desarrollo institucional de las políticas en materia de transparencia y derecho de acceso a la información presentes en la región. Una vez dentro de la conceptualización pertinente, donde se consultan diversas fuentes que tratan el Accountability, se realiza una comparación que permite identificar posteriormente las condiciones para que las herramientas presentes en cada uno de los países analizados, conforme a su propia legislación, permitan ejercer el Accountability y configurar el acceso a la información, tanto como derecho autónomo como medio efectivo de control social a la gestión pública.'
