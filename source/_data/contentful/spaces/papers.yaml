@@ -1685,3 +1685,44 @@ Se identifican los principales aprendizajes que esta experiencia permite entrega
   relatedDataUrl:
   relatedContentTitle:
   abstract: 'El presente estudio busca revisar el estado y el desarrollo institucional de las políticas en materia de transparencia y derecho de acceso a la información presentes en la región. Una vez dentro de la conceptualización pertinente, donde se consultan diversas fuentes que tratan el Accountability, se realiza una comparación que permite identificar posteriormente las condiciones para que las herramientas presentes en cada uno de los países analizados, conforme a su propia legislación, permitan ejercer el Accountability y configurar el acceso a la información, tanto como derecho autónomo como medio efectivo de control social a la gestión pública.'
+- sys:
+    id: paper_32
+    space:
+      sys:
+        id: ufh1mvj7xl16
+    type: Entry
+    createdAt: !ruby/object:DateTime 2015-13-11 00:54:46.534000000 Z
+    updatedAt: !ruby/object:DateTime 2015-13-11 02:38:20.386000000 Z
+    revision: 2
+    contentType:
+      sys:
+        id: paper
+    locale: en-US
+  open: true
+  publicationName: "Cuando los datos abiertos gubernamentales no promueven el acceso a la información pública. La tensión de las agendas durante el gobierno de Mauricio Macri"
+  downloadLink: https://docs.google.com/document/d/17VPDoZahJO6g4VV5CE4AwzH7UbH8wy8AH0T9i0ncMnI/edit?usp=sharing
+  organization:
+    - Banco Interamericano de Desarrollo
+  publicationDate: '2017'
+  region:
+    - Argentina
+  authors:
+  - Romina Colman
+  innovationCategory:
+  - Acceso a la Información
+  - Datos Abiertos
+  objectiveCategory:
+  - Acceso
+  - Efectividad
+  - Participación
+  - Transparencia
+  - Rendición de Cuentas
+  methodology:
+  - Análisis Comparativo
+  publicationType:
+  - Reporte de Investigación
+  project: []
+  gitHub:
+  relatedDataUrl:
+  relatedContentTitle:
+  abstract: 'La relación entre los datos abiertos gubernamentales (DAG) y el acceso a la información pública (AIP) ha sido abordada durante los últimos años por numerosas organizaciones internacionales y educativas. Sin embargo, la Argentina aún no cuenta con material que contextualice el vínculo entre ambas esferas en términos locales. Por este motivo, el presente trabajo de investigación explora la relación entre los DAG y el AIP a nivel nacional durante la presidencia de Mauricio Macri, entre enero de 2016 y septiembre de 2017. Para cumplir con este objetivo, se analizan y se comparan las normas de ambas esferas dentro del ámbito del PEN, junto a documentos públicos y sitios gubernamentales; elementos que se completan y complementan con entrevistas a funcionarios y actores especializados en materia de AIP y DAG. Los hallazgos de este estudio evidencian que, si bien la agenda de AIP creó instancias de acercamiento entre las esferas; la agenda de DAG y, en particular, el Plan de Apertura de Datos desarrollado en este ámbito, no promovieron el trabajo colaborativo con la esfera de AIP.'
