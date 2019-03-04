@@ -1741,13 +1741,14 @@ Se identifican los principales aprendizajes que esta experiencia permite entrega
     locale: en-US
   open: true
   publicationName: "Guia Datos Abiertos para Contrataciones Publicos"
-  downloadLink: https://zenodo.org/record/2560574#.XGGVDi10ddg
+  downloadLink: https://drive.google.com/file/d/1lC0fG2OK9114PiP2gkMCv_XdC6KdZm3z/view?usp=sharing
   organization:
     - ILDA
     - Escuela de Datos
   publicationDate: '2019'
   region:
-    - Perú
+    - América Latina
+    - Costa Rica
   authors:
   - Loria Eugenia
   - Atenas Javiera
@@ -1758,12 +1759,14 @@ Se identifican los principales aprendizajes que esta experiencia permite entrega
   - Datos Abiertos
   objectiveCategory:
   - Acceso
+  - Transparencia
+  - Rendición de Cuentas
   sectorCategory:
-  - Economía
+  - Compras Públicas
   methodology:
   - Estudios de Caso
   publicationType:
-  - Reporte de Investigación
+  - Documento de Trabajo
   project: []
   gitHub:
   relatedDataUrl:
@@ -1784,13 +1787,14 @@ Se identifican los principales aprendizajes que esta experiencia permite entrega
     locale: en-US
   open: true
   publicationName: "Datos Abiertos y Cambio Climatico"
-  downloadLink: https://zenodo.org/record/2560546#.XGGVQy10ddg
+  downloadLink: https://drive.google.com/file/d/1ZkmhR48EFIlYEpX935yahfQY9v32-RQ0/view?usp=sharing
   organization:
     - ILDA
     - Escuela de Datos
   publicationDate: '2019'
   region:
-    - Uruguay
+    - América Latina
+    - Costa Rica
   authors:
   - Durán Guillermo
   - Atenas Javiera
@@ -1800,9 +1804,10 @@ Se identifican los principales aprendizajes que esta experiencia permite entrega
   innovationCategory:
   - Datos Abiertos
   objectiveCategory:
+  - Acceso
   - Transparencia
   sectorCategory:
-  - Movimientos Sociales & Activismo
+  - Medio Ambiente
   methodology:
   - Estudios de Caso
   publicationType:
