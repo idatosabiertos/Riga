@@ -1817,3 +1817,102 @@ Se identifican los principales aprendizajes que esta experiencia permite entrega
   relatedDataUrl:
   relatedContentTitle:
   abstract: 'Este documento es una introducción general a qué son los datos abiertos y está enfocado a los datos relacionados al cambio climático. Se espera que este documento sirva como guía para la Dirección de Cambio Climático (DCC) en la implementación de los datos abiertos dentro de sus plataformas web y además sea un incentivo para que esta práctica se difunda entre otras entidades del gobierno. Este documento es producto del fellowship que brindaron la Iniciativa Latinoamericana por los Datos Abiertos (ILDA) y Escuela De Datos para Costa Rica. Fue desarrollado en la DCC durante la segunda mitad del año 2018.'
+- sys:
+    id: paper_35
+    space:
+      sys:
+        id: ufh1mvj7xl16
+    type: Entry
+    createdAt: !ruby/object:DateTime 2015-13-11 00:54:46.534000000 Z
+    updatedAt: !ruby/object:DateTime 2015-13-11 02:38:20.386000000 Z
+    revision: 2
+    contentType:
+      sys:
+        id: paper
+    locale: en-US
+  open: true
+  publicationName: "Guía para protocolizar procesos de identificación de femicidios para su posterior registro"
+  downloadLink: https://zenodo.org/record/1659629#.XIFwTVNKj3B
+  organization:
+    - ILDA
+  publicationDate: '2019'
+  region:
+    - América Latina
+  authors:
+  - Silvana Fumega
+  innovationCategory:
+  - Tecnología Cívica
+  - Innovación Institucional
+  - Datos Abiertos
+  objectiveCategory:
+  - Participación
+  - Transparencia
+  sectorCategory:
+  - Derechos Humanos
+  - Seguridad Pública
+  methodology:
+  - Marco Conceptual
+  publicationType:
+  - Documento de Trabajo
+  project: []
+  gitHub:
+  relatedDataUrl:
+  relatedContentTitle:
+  abstract: 'Existen múltiples maneras de llevar adelante los procesos previos, al registro de los datos, que permiten caracterizar a los femicidios. Esta guía pretende protocolizar estos procesos para que los casos registrados, de acuerdo con el estándar, cuenten con una metodología común de identificación.'
+- sys:
+    id: paper_36
+    space:
+      sys:
+        id: ufh1mvj7xl16
+    type: Entry
+    createdAt: !ruby/object:DateTime 2015-13-11 00:54:46.534000000 Z
+    updatedAt: !ruby/object:DateTime 2015-13-11 02:38:20.386000000 Z
+    revision: 2
+    contentType:
+      sys:
+        id: paper
+    locale: en-US
+  open: true
+  publicationName: "El derecho de acceso a información pública como mecanismo de control social: Análisis comparado en cinco países latinoamericanos"
+  downloadLink: https://orb.binghamton.edu/gobernar/vol2/iss1/9/
+  organization:
+    - ILDA
+  publicationDate: '2018'
+  region:
+    - Brasil
+    - Colombia
+    - República Dominicana
+    - América Latina
+    - Argentina
+    - Chile
+    - México
+    - Uruguay
+    - Perú
+    - Costa Rica
+    - El Salvador
+    - Guatemala
+  authors:
+  - Erik Moreno R.
+  - Christopher Ramírez S
+  - Matías Salazar S.
+  innovationCategory:
+  - Participación ciudadana y Crowdsourcing
+  - Tecnología Cívica
+  - Acceso a la Información
+  objectiveCategory:
+  - Acceso
+  - Legitimidad
+  - Participación
+  - Transparencia
+  - Rendición de Cuentas
+  sectorCategory:
+  - Respuesta a Crisis
+  - Ley
+  methodology:
+  - Estudios de Caso
+  - Análisis Comparativo
+  project: []
+  gitHub:
+  relatedDataUrl:
+  relatedContentTitle:
+  abstract: 'El presente estudio busca revisar el estado y el desarrollo institucional de las políticas en materia de transparencia y derecho de acceso a la información presentes en la región. Una vez dentro de la conceptualización pertinente, donde se consultan diversas fuentes que tratan el Accountability, se realiza una comparación que permite identificar posteriormente las condiciones para que las herramientas presentes en cada uno de los países analizados, conforme a su propia legislación, permitan ejercer el Accountability y configurar el acceso a la información, tanto como derecho autónomo como medio efectivo de control social a la gestión pública.'
